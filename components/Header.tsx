@@ -11,7 +11,7 @@ export const Header: React.FC = () => {
           </div>
           <div className="flex flex-col">
             <h1 className="text-2xl font-bold text-slate-900 leading-none">
-              مولد البريد الذكي
+              JXmail
             </h1>
             <p className="text-sm text-slate-500 font-medium mt-1">
               أداة التسلسل التلقائي للعناوين

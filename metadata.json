@@ -1,0 +1,5 @@
+{
+  "name": "Plus Mail Generator",
+  "description": "A smart email alias generator using plus-addressing for dynamic email management.",
+  "requestFramePermissions": []
+}
